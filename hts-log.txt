@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 17 Jul 2020 14:17:12 at http://www.themechampion.com/templates/indofact_html_landing_page/theme/index3.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.themechampion.com/templates/indofact_html_landing_page/theme/index3.html -O1 "D:\cs\indofact" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:17:14	Warning: 	Note: due to www.themechampion.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, /?s (see in the options to disable this)
+14:24:22	Warning: 	Retry after error -4 (No data (connection closed)) at link www.themechampion.com/templates/indofact_html_landing_page/theme/images/home2-images/home2-chemicalindustry-img.jpg (from www.themechampion.com/templates/indofact_html_landing_page/theme/index3.html)
+14:24:28	Warning: 	Retry after error -4 (No data (connection closed)) at link www.themechampion.com/templates/indofact_html_landing_page/theme/images/home3-images/home3-project-img2.jpg (from www.themechampion.com/templates/indofact_html_landing_page/theme/index3.html)
+14:25:36	Warning: 	Retry after error -4 (Connect Error) at link www.themechampion.com/templates/indofact_html_landing_page/theme/images/oil_img1.jpg (from www.themechampion.com/templates/indofact_html_landing_page/theme/oil-industry.html)
+14:25:51	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/codropsicons/codropsicons.eot (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/demo.css)
+14:25:51	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/codropsicons/codropsicons.eot? (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/demo.css)
+14:25:52	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/codropsicons/codropsicons.woff (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/demo.css)
+14:25:52	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/codropsicons/codropsicons.ttf (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/demo.css)
+14:25:52	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/codropsicons/codropsicons.svg (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/demo.css)
+14:25:52	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/feathericons/feathericons.eot?-8is7zf (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/set1.css)
+14:25:53	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/feathericons/feathericons.eot? (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/set1.css)
+14:25:53	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/feathericons/feathericons.woff?-8is7zf (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/set1.css)
+14:25:53	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/feathericons/feathericons.ttf?-8is7zf (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/set1.css)
+14:25:53	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/feathericons/feathericons.svg?-8is7zf (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/set1.css)
+14:25:53	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/images/gallery_page/fancybox_sprite.png (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/jquery.fancybox.css)
+14:25:53	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/images/gallery_page/fancybox_loading.gif (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/jquery.fancybox.css)
+14:25:54	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/images/blank.gif (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/jquery.fancybox.css)
+14:25:54	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/images/gallery_page/fancybox_overlay.png (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/jquery.fancybox.css)
+14:25:54	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/images/fancybox_sprite@2x.png (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/jquery.fancybox.css)
+14:25:54	Error: 	"Not Found" (404) at link www.themechampion.com/templates/indofact_html_landing_page/theme/images/fancybox_loading@2x.gif (from www.themechampion.com/templates/indofact_html_landing_page/theme/css/jquery.fancybox.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 43 seconds : 303 links scanned, 283 files written (12373059 bytes overall) [11800692 bytes received at 22563 bytes/sec], 1683796 bytes transferred using HTTP compression in 55 files, ratio 19%, 2.3 requests per connection
+(16 errors, 4 warnings, 0 messages)
