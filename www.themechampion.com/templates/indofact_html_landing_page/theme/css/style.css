@@ -1729,6 +1729,10 @@ Table of Content:
  .homeprj3-slide{
      margin-bottom:30px;
 }
+
+.testi-text{
+    min-height: 210px;
+}
  .home5-service1{
      background:url(../images/home5-service1.jpg) no-repeat center top;
      background-size:cover;
