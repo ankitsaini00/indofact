@@ -1308,7 +1308,8 @@ Table of Content:
 }
  .client_hover .image_hover {
      float: left;
-     width:100%;
+     width:150px;
+     height: 150px;
      margin-bottom:30px;
 }
  .client_hover .image_hover img {
@@ -1324,9 +1325,7 @@ Table of Content:
 .client_hover .image_hover:focus:after, .client_hover .image_hover:hover:after{
 	opacity:0;
 }
-.client_hover .image_hover{
-	border: 1px solid #9a9a9a;
-}
+
 .client_hover .image_hover:hover .zoom_img_effect{
 	transform: scale(1.10) translateZ(0);
 }
