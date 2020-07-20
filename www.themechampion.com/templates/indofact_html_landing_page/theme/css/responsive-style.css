@@ -206,6 +206,15 @@
          display: none;
     }
 }
+@media (max-width: 992px){
+    .sec-nav-container{
+        display: block;
+    } 
+    .sec-nav-link{
+        display: none;
+    }
+   
+}
  @media only screen and (min-width: 260px) and (max-width: 991px) {
      .display-block{
          display:none;
@@ -943,7 +952,7 @@
          width: 53%;
     }
      ul.header-info li.phn {
-         width: 41%;
+         width: 42%;
     }
      .hdr-top-bar ul.header-info li{
          margin:5px;

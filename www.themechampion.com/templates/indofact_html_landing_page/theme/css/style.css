@@ -186,6 +186,25 @@ Table of Content:
  .read-more-link a{
      color:#f2ae2b;
 }
+
+.sec-nav-container{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.sec-nav-link{
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #000;
+    text-decoration: none;
+    text-decoration-line: none;
+}
+.sec-nav-link:hover, .sec-nav-link:visited, .sec-nav-link:active{
+    color: #000;
+    text-decoration: none;
+}
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /*02 - Header */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
@@ -199,7 +218,7 @@ Table of Content:
  ul.header-info{
      margin:7px 0px;
      padding:0px;
-     width:72%;
+     width:54%;
      float:left;
 }
  ul.header-info li{
